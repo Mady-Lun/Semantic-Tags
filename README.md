@@ -15,10 +15,9 @@
             <a style="color: red;font-family: Verdana, Geneva, Tahoma, sans-serif;" href="/courses/">Courses</a><br>
             <a style="color: red;font-family: Verdana, Geneva, Tahoma, sans-serif;" href="/scholarship/">Scholarship</a><br>
             <a style="color: red;font-family: Verdana, Geneva, Tahoma, sans-serif;" href="/lifestyle/">Students Lifestyle</a>
-
-
         </nav>
     </header>
+</body>
 <body>    
 <main>   
     <article style="display:inline-block; font-size: larger ;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-style: normal;">
@@ -45,8 +44,6 @@
             <P style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> Community Engagement - TT Institute believes in positively impacting the broader community through psychology. The school partners with local organizations to provide counseling services, conduct studies, and share knowledge.</P>
             <P style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> Growth Mindset - TT Institute fosters lifelong learning and a growth mindset among students and faculty. The school empowers continuous improvement and professional development.</P>
 
-            
-        </article>
 </body>
     </section>
 </body>
