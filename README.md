@@ -19,13 +19,14 @@
 
         </nav>
     </header>
-    
+<body>    
 <main>   
     <article style="display:inline-block; font-size: larger ;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-style: normal;">
         <h2>Introduction to TT institute</h2>
         <p style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> TT Institute is a leading psychology school located in the city of Ura. Founded in 1958, TT Institute has a long history of excellence in psychology education and research. With over 300 faculty members across various subfields of psychology, TT Institute offers undergraduate, masters, and doctoral degree programs to over 2,000 students annually. </p>
     </article>
-    
+</body>    
+<body> 
     <section style="font-size: larger ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-style: normal;">
         <article>
             <h3>TT Background</h3>
@@ -46,6 +47,7 @@
             
         </article>
     </section>
+</body>
 </main>
 <footer>
     <h3 style="font-size: 10mm; color:aliceblue; background-color: brown; display: inline-block"> TT Institute</h3>
