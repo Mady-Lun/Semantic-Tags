@@ -43,7 +43,7 @@
             <P style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> Research Leadership - TT Institute aims to lead advances in psychological science through pioneering theoretical and applied research. The school equips students with strong research skills.</P>
             <P style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> Community Engagement - TT Institute believes in positively impacting the broader community through psychology. The school partners with local organizations to provide counseling services, conduct studies, and share knowledge.</P>
             <P style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> Growth Mindset - TT Institute fosters lifelong learning and a growth mindset among students and faculty. The school empowers continuous improvement and professional development.</P>
-            
+        </article>
 
 </body>
     </section>
