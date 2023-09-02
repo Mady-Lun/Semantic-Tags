@@ -35,7 +35,8 @@
             <p style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;">Moving into the 21st century, TT Institute continued to innovate and set trends in psychology education. In the 2010s, the school began offering online degree programs to reach students beyond its physical campus. TT Institute also implemented novel curriculum elements like project-based learning and required internships to better prepare graduates for psychology careers.</p>
             <p style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;">The school continues to thrive today as a hub for psychology scholarship and learning. TT Institute now boasts over 4,000 students across its on-campus and online programs. With its strong faculty, diverse course offerings, and commitment to experiential learning, the institute has maintained its reputation as one of the leading psychology schools in the nation.</p>
         </article>
-
+</body>
+<body> 
         <article>
             <h3>TT Values</h3>
             <p style="color:black; background-color: lightpink ;font-size: large; text-shadow: 5cap;"> Academic Excellence - TT Institute is committed to maintaining rigorous academic standards and promoting excellence in psychology research and education. The school strives to be at the forefront of innovation in the field.</p>
@@ -46,6 +47,7 @@
 
             
         </article>
+</body>
     </section>
 </body>
 </main>
